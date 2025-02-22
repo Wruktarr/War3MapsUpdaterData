@@ -1,0 +1,10 @@
+# .gitignore 
+.idea/* 
+.vs/* 
+.vscode/* 
+__MACOSX/* 
+.DS_Store 
+node_modules/* 
+vendor/* 
+Thumbs.db 
+desktop.ini 
