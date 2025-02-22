@@ -1,0 +1,5 @@
+# .gitignore
+/*
+!.gitignore
+!maps-update.zip
+!maps-update.zip.svd1
